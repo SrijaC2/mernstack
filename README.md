@@ -14,6 +14,29 @@ A full-stack web application built using the **MERN Stack** — **MongoDB**, **E
 
 ---
 
+### Frontend (React)
+- Fetches book data from backend using Axios
+- Displays books in **Table View** and **Card View**
+- Toggle between table and card layouts dynamically
+- Shows loading state using a Spinner component
+- Add new books
+- Edit existing book details
+- View individual book information
+- Delete books
+- Client-side routing using React Router
+- Responsive UI built with Tailwind CSS
+
+### Backend (Node.js & Express)
+- RESTful API for book management
+- Create a new book with field validation
+- Retrieve all books from MongoDB
+- Retrieve a book by ID
+- Update book details by ID
+- Delete a book by ID
+- Proper error handling and HTTP status codes
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer       | Technology |
