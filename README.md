@@ -21,7 +21,6 @@ A full-stack web application built using the **MERN Stack** — **MongoDB**, **E
 | Frontend    | React.js   |
 | Backend     | Node.js, Express.js |
 | Database    | MongoDB (Atlas or local) |
-| Authentication | JWT / OAuth (optional) |
 | API Testing | Postman / Insomnia |
 
 ---
