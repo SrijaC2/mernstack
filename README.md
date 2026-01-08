@@ -1,4 +1,4 @@
-# 🌐 MERN Stack Full-Stack Application
+# 🌐 MERN Stack Book Management Application
 
 A full-stack web application built using the **MERN Stack** — **MongoDB**, **Express.js**, **React**, and **Node.js** — to demonstrate real-world CRUD functionality and integration between frontend and backend.
 
