@@ -4,8 +4,6 @@ A full-stack web application built using the **MERN Stack** — **MongoDB**, **E
 
 ---
 
----
-
 ## 🚀 Features
 
 - 🗂️ RESTful API built using Express and Node.js  
